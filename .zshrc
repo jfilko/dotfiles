@@ -15,7 +15,7 @@ antigen bundle docker
 antigen bundle docker-compose
 antigen bundle dnf
 antigen bundle git
-antigen bundle github
+#antigen bundle gh
 antigen bundle httpie
 antigen bundle kubectl
 antigen bundle minikube
@@ -23,6 +23,7 @@ antigen bundle node
 antigen bundle npm
 antigen bundle nvm
 antigen bundle oc
+antigen bundle snap
 antigen bundle systemd
 
 antigen theme romkatv/powerlevel10k
