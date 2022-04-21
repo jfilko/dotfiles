@@ -10,12 +10,13 @@ source $HOME/antigen.zsh
 antigen use oh-my-zsh
 
 antigen bundle ansible
+antigen bundle archlinux
 antigen bundle common-aliases
 antigen bundle docker
 antigen bundle docker-compose
-antigen bundle dnf
+# antigen bundle dnf
 antigen bundle git
-#antigen bundle gh
+antigen bundle gh
 antigen bundle httpie
 antigen bundle kubectl
 antigen bundle minikube
