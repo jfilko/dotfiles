@@ -9,9 +9,9 @@ source $HOME/antigen.zsh
 
 antigen use oh-my-zsh
 
+antigen bundle archlinux
 antigen bundle aws
 antigen bundle common-aliases
-antigen bundle dnf
 antigen bundle git
 antigen bundle httpie
 antigen bundle node
