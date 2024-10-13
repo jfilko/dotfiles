@@ -10,14 +10,14 @@ source $HOME/antigen.zsh
 antigen use oh-my-zsh
 
 antigen bundle archlinux
-antigen bundle aws
-antigen bundle common-aliases
+antigen bundle docker
 antigen bundle git
 antigen bundle httpie
 antigen bundle node
 antigen bundle npm
 antigen bundle nvm
 antigen bundle systemd
+antigen bundle ufw
 
 antigen theme romkatv/powerlevel10k
 
